@@ -1,3 +1,6 @@
 python 3
 virtualenv
-django
+django 4.0.5
+postgresql 10.10
+psycopg2
+psycopg2-binary
