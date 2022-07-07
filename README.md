@@ -21,3 +21,6 @@ python manage.py makemigrations
 
 // migrando arquivos para o banco
 python manage.py migrate
+
+// criando superuser no django admin
+python manage.py createsuperuser
